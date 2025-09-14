@@ -13,7 +13,7 @@ body {
   align-items: center;
   color: white;
   overflow: hidden;
-  background: url("background.jpg") no-repeat center center/cover; /* ← ضع صورة الشخصية */
+  background: url(https://ibb.co/27gnZSjX) no-repeat center center/cover; /* ← ضع صورة الشخصية */
   position: relative;
 }
 
